@@ -1,5 +1,10 @@
 # Cybersecurity Portfolio — Starter
 
+**Professional Statement:**  
+[I am a motivated learner transitioning into cybersecurity, where I can combine creativity, analytical thinking, and empathy for users to help organisations defend against threats. As a product designer, I focused on enriching customer experiences by understanding people’s needs; now I want to extend that same care by protecting their data and privacy while aligning with business security goals. I am committed to ethical standards and building resilient systems that safeguard both people and organisations.]
+
+Welcome! This is a tidy, job‑ready structure for your cybersecurity portfolio.# Cybersecurity Portfolio — Starter
+
 Welcome! This is a tidy, job‑ready structure for your cybersecurity portfolio. 
 Fill it as you progress through the Google Cybersecurity Professional Certificate.
 
