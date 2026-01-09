@@ -1,40 +1,59 @@
-# Cybersecurity Portfolio — Starter
+# Cybersecurity Portfolio
 
-**Professional Statement:**  
-[I am a motivated learner transitioning into cybersecurity, where I can combine creativity, analytical thinking, and empathy for users to help organisations defend against threats. As a product designer, I focused on enriching customer experiences by understanding people’s needs; now I want to extend that same care by protecting their data and privacy while aligning with business security goals. I am committed to ethical standards and building resilient systems that safeguard both people and organisations.]
+## Professional Statement
+I am an early-career cybersecurity analyst building practical skills in network security, incident analysis, and security fundamentals.  
+I approach security with a strong focus on clarity, critical thinking, and responsible handling of data.
 
-Welcome! This is a tidy, job‑ready structure for your cybersecurity portfolio.# Cybersecurity Portfolio — Starter
+This portfolio documents hands-on labs, incident analyses, and structured write-ups that demonstrate how I investigate security events, interpret network traffic, and communicate findings clearly.
 
-Welcome! This is a tidy, job‑ready structure for your cybersecurity portfolio. 
-Fill it as you progress through the Google Cybersecurity Professional Certificate.
+---
 
-## Structure
-- `projects/` — Polished case studies (end‑to‑end stories with outcomes)
-- `labs/` — Hands‑on exercises (Linux, SQL, Wireshark, SIEM, etc.)
-- `audits/` — Security audits & governance work
-- `vuln-assessments/` — Vulnerability findings & small-business assessments
-- `incident-journal/` — Incident handler’s journal entries
-- `templates/` — Re-usable write‑up templates
-- `assets/` — Redacted screenshots & sample (non‑sensitive) data
+## About This Repository
+This repository contains practical cybersecurity work inspired by real-world scenarios and industry-standard practices.  
+It focuses on **how incidents are analysed**, **how conclusions are reached**, and **how findings are documented**, rather than tool output alone.
 
-> ⚠️ Never include sensitive, private, or proprietary information. Redact screenshots and sanitise data.
+The goal is to show how I think, not just what I run.
 
-## Quick Start
-1. Duplicate a template from `templates/` into the relevant folder.
-2. Replace placeholders with your content and save any redacted images in `assets/`.
-3. Commit and push to GitHub (instructions below).
+---
 
-## Git Commands (first push)
-```bash
-git init
-git add .
-git commit -m "Initial commit: cybersecurity portfolio starter"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-git push -u origin main
-```
+## Repository Structure
 
-## Suggested Badges
-Add these to project READMEs when relevant:
-- Tools: Wireshark • Linux • Bash • SQL • Python • Elastic • Splunk
-- Domains: Incident Response • Threat Hunting • Governance • Compliance • Forensics
+- **`labs/`**  
+  Hands-on technical exercises (network traffic analysis, protocol behaviour, attack identification).
+
+- **`incident-journal/`**  
+  Structured incident write-ups based on lab findings or simulated incidents, written in a professional incident-response style.
+
+- **`audits/`**  
+  Governance, risk, and compliance exercises and security assessments.
+
+- **`vuln-assessments/`**  
+  Vulnerability identification and basic risk analysis for small or simulated environments.
+
+- **`templates/`**  
+  Reusable templates for incident reports and security documentation.
+
+- **`assets/`**  
+  Redacted screenshots and non-sensitive supporting material.
+
+---
+
+## Skills Demonstrated
+- Network protocol analysis (TCP/IP, DNS, ICMP, HTTP)
+- Traffic inspection using packet analysis tools
+- Incident detection and documentation
+- Root cause analysis
+- Clear technical communication
+- Security fundamentals and defensive thinking
+
+---
+
+## Data Handling & Ethics
+All scenarios are simulated or educational.  
+No real credentials, personal data, or proprietary information are included.  
+Screenshots and logs are redacted where appropriate.
+
+---
+
+## Notes
+This portfolio is a living repository and will continue to evolve as my skills develop.
