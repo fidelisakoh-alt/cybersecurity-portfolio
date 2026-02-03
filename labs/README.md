@@ -5,6 +5,13 @@ Each lab documents observations, protocol-level analysis, and conclusions based 
 
 The purpose of these labs is to demonstrate practical cybersecurity skills and analytical thinking.
 
+The labs focus on developing practical technical skills such as:
+
+- Network traffic analysis
+- Protocol inspection
+- Command-line investigation
+- Interpreting security-relevant evidence
+
 ---
 
 ## Network & Traffic Analysis
