@@ -1,10 +1,9 @@
 # Cybersecurity Portfolio
 
 ## Professional Statement
-I am an early-career cybersecurity analyst building practical skills in network security, incident analysis, and security fundamentals.  
-I approach security with a strong focus on clarity, critical thinking, and responsible handling of data.
+I am an early-career cybersecurity analyst building practical skills in network security, incident response, and security risk assessment.  
 
-This portfolio documents hands-on labs, incident analyses, and structured write-ups that demonstrate how I investigate security events, interpret network traffic, and communicate findings clearly.
+I focus on structured investigation, protocol-level analysis, and clear technical documentation. My goal is to demonstrate not only technical ability, but sound judgment, analytical thinking, and responsible handling of sensitive data.
 
 ---
 
@@ -40,11 +39,13 @@ The goal is to show how I think, not just what I run.
 
 ## Skills Demonstrated
 - Network protocol analysis (TCP/IP, DNS, ICMP, HTTP)
-- Traffic inspection using packet analysis tools
-- Incident detection and documentation
-- Root cause analysis
-- Clear technical communication
-- Security fundamentals and defensive thinking
+- Packet inspection and traffic investigation
+- Denial-of-Service (DoS) analysis
+- Root cause identification and impact assessment
+- Firewall hardening and defensive configuration
+- Security risk assessment and control planning
+- Incident response documentation aligned to NIST CSF
+- Clear technical communication and structured reporting
 
 ---
 
