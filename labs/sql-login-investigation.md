@@ -1,8 +1,8 @@
 # Lab: Investigating Security Events Using SQL Filters
 
-## Project Description
+## Security Context
 
-In this exercise, I used SQL queries to investigate potential security issues within an organization's login activity and employee records. The objective was to identify suspicious login attempts and determine which employee machines required security updates.
+As part of a routine security investigation, I analyzed authentication logs and employee system data to identify potential security issues. Suspicious login activity was detected in the organization’s authentication records, requiring further investigation to determine whether unauthorized access attempts had occurred..
 
 Using SQL filtering techniques such as `AND`, `OR`, `NOT`, and `LIKE`, I queried two datasets: `log_in_attempts` and `employees`. These queries allowed me to isolate relevant records and support the investigation of potential security incidents.
 

@@ -46,6 +46,7 @@ The goal is to show how I think, not just what I run.
 - Security risk assessment and control planning
 - Incident response documentation aligned to NIST CSF
 - Clear technical communication and structured reporting
+- SQL-based authentication log analysis for security investigations
 
 ---
 
